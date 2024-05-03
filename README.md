@@ -2,7 +2,10 @@
 # Evaluation of Object Detection and Object Tracking Models for Autonomous Vehicles
 
 ## PointPillars.md
-Environment setup instructions for the PointPillars object detection framework. 
+Environment setup instructions for the PointPillars object detection framework.
+
+## PTTR.md
+Environment setup instructions for the PTTR object tracking framework.
 
 ## carla_to_kitti.py
 This script converts spatial data from the CARLA simulator into KITTI-format files for evaluation. 
