@@ -7,6 +7,9 @@ Environment setup instructions for the PointPillars object detection framework.
 ## PTTR.md
 Environment setup instructions for the PTTR object tracking framework.
 
+## pttr_environment.yml
+Required to set up PTTR environment.
+
 ## carla_to_kitti.py
 This script converts spatial data from the CARLA simulator into KITTI-format files for evaluation. 
 
